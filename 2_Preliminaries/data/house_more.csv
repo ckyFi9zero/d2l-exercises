@@ -1,0 +1,13 @@
+Id,NumRooms,Alley,LotArea,YearBuilt,RoofStyle,Heating,HasGarage,SaleCondition,Price
+1,NA,Pave,8450,2003,Gable,GasA,Yes,Normal,208500
+2,3,NA,9600,1976,Gable,GasA,Yes,Normal,181500
+3,4,NA,11250,2001,Hip,GasA,Yes,Normal,223500
+4,3,Pave,9550,1915,Gable,GasA,No,Abnorml,140000
+5,4,NA,14260,2000,Gable,GasA,Yes,Normal,250000
+6,2,Grvl,14115,1993,Gable,GasA,Yes,Normal,143000
+7,3,NA,10084,2004,Gable,GasA,Yes,Normal,307000
+8,3,Pave,10382,1973,Gable,GasA,Yes,Normal,200000
+9,2,NA,6120,1931,Gable,GasA,No,Normal,129900
+10,2,NA,7420,1939,Gable,GasA,Yes,Normal,118000
+11,3,NA,11200,1965,Hip,GasA,Yes,Normal,140000
+12,NA,NA,11924,2005,Hip,GasA,Yes,Partial,345000
